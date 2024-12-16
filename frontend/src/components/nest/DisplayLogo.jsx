@@ -7,7 +7,7 @@ function DisplayLogo() {
     <Link to="/" className="mt-12 text-lg font-semibold text-black">
       <p className="hover:text-accent">
         <Emoji symbol="🔗" label="nest" />
-        LinkForge
+        LinkAnchor
       </p>
     </Link>
   );

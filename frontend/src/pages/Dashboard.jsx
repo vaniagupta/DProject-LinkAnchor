@@ -8,7 +8,7 @@ function Dashboard() {
     <div className="flex flex-col items-center justify-center">
       <div className="flex w-3/5 flex-col items-start justify-start">
         <h1 className="mb-10 mt-14 break-words text-5xl font-bold text-accent-content">
-          Welcome to LinkForge, {auth.user.name}
+          Welcome to LinkAnchor, {auth.user.name}
           <Emoji symbol="👋" label="hand-wave" />
         </h1>
         <div className="flex flex-col items-start justify-start">

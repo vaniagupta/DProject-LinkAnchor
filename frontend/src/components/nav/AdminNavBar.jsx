@@ -19,7 +19,7 @@ function AdminNavBar() {
           <NavLink to="/admin/dashboard">
             <h2 className="text-2xl font-bold">
               <Emoji symbol="🔗" label="nest" />
-              LinkForge
+              LinkAnchor
             </h2>
           </NavLink>
         </div>

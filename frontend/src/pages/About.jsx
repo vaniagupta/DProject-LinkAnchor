@@ -17,7 +17,7 @@ function About() {
           <p className="text-xl">
             Hi! I&apos;m Vania.
             <br />
-            Check out my LinkForge:
+            Check out my LinkAnchor:
           </p>
           <Link
             to="https://www.linkedin.com/in/vania-gupta/"

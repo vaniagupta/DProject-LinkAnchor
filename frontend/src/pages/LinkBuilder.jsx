@@ -160,7 +160,7 @@ function LinkBuilder() {
         <div className="stats mt-8 flex w-11/12 items-center justify-center shadow">
           <div className="stat flex justify-between">
             <div>
-              <div className="stat-title">Your LinkForge is live:</div>
+              <div className="stat-title">Your LinkAnchor is live:</div>
               <a
                 href={`http://localhost:3000/${auth.user.username}`}
                 target="_blank"

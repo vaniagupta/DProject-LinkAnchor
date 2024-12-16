@@ -8,7 +8,7 @@ function Home() {
         Build a nest of your personal links
       </h1>
       <h2 className="mb-4 text-center text-xl font-semibold text-accent-content">
-        Use LinkForge to:
+        Use LinkAnchor to:
       </h2>
       <div className="mb-12 flex flex-col items-center justify-center md:flex-row">
         <div className="card mx-2 mb-2 w-80 border bg-base-200 shadow-md">

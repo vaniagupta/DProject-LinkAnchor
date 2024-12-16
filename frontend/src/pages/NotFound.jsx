@@ -15,7 +15,7 @@ function NotFound() {
         <div className="text-center text-2xl text-accent-content md:px-12">
           <span>Want this to be your username? </span>
           <Link to="/signup" className="text-accent hover:text-accent-focus">
-            Create your LinkForge now.
+            Create your LinkAnchor now.
           </Link>
         </div>
       </div>

@@ -51,7 +51,7 @@ function Login() {
     <div className="relative flex flex-col justify-center">
       <div className="m-auto mt-8 w-full rounded-md border bg-base-100 p-6 shadow-md lg:max-w-xl">
         <h2 className="text-center text-3xl font-semibold">
-          Log in to LinkForge
+          Log in to LinkAnchor
         </h2>
         <form onSubmit={handleLogin} className="form-control space-y-4">
           <div>
